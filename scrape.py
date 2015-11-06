@@ -1,3 +1,5 @@
+#updated on 6/11/2015  
+
 import requests
 import urllib
 import BeautifulSoup
